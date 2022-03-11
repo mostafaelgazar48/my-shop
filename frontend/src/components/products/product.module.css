@@ -1,0 +1,6 @@
+.product {
+    transition: transform 500ms  ;
+}
+.product:hover {
+    transform: translateY(-10px);
+}
